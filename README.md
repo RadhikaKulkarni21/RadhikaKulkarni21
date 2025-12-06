@@ -15,5 +15,3 @@ I'm Radhika, software engineer, graphic designer and a gamer. I have 5 years of 
 ### 👩‍🎨 Desigining tools:
 - Adobe tools(photoshop, illustrator, indesign, premier pro)
 - Figma
-- Here are some ideas to get you started:
-
