@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**RadhikaKulkarni21/RadhikaKulkarni21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Radhika, software engineer, graphic designer and a gamer. I have 5 years of CS experience. I am fluent in English and currently pursuing my Korean langauge certification exam.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+- Korean-English esports terms lookup
+  
+## 🌱 Current Interests
+- Game development
+- Gaming(League of legends - Mid/Bot, valorant - Controller)
+- Books
+- Digital Illustrations
+  
+## 👯 Tech stack:
+- C++
+- C#
+- Unity Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😄 Desigining tools:
+- Adobe tools(photoshop, illustrator, indesign, premier pro)
+- Figma
+- Here are some ideas to get you started:
+
