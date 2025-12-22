@@ -2,7 +2,7 @@
 
 I'm Radhika, software engineer, graphic designer and a gamer. I have 5 years of CS experience. I am currently pursuing my Korean langauge certification exam((TOPIK II level 4)).
 ### 💻 I’m currently working on
-- Korean-English esports terms lookup
+- 3D Space game(Galaxy Strike)
 ### 🌱 Current Interests
 - Game development
 - Gaming(League of legends - Mid/Bot, valorant - Controller)
