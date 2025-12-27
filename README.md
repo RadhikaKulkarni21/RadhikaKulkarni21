@@ -7,7 +7,6 @@ Open for job opportunities, discussions and conversations.
 ### 🌱 Current Interests
 - Game/AR/VR development
 - Gaming (League of legends, Valorant, Stardew Valley)
-- Reading (The book thief by Markus Zusak)
 - Digital Illustrations
 - Language Learning (KR/JP)
 ### 🖥 Tech stack:
