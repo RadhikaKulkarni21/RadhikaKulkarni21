@@ -11,13 +11,11 @@ Open for job opportunities, discussions and conversations. Currently based in Ir
 - Digital Illustrations
 - Language Learning (KR/JP)
 ### 🖥 Tech stack:
-- C++
-- C#
+- C++, C#
 - Unity Engine 2D/3D
-- Ruby
+- Ruby, Python
 ### 👩‍🎨 Desigining tools:
-- Digital Illustrations - Adobe Illustrator, Adobe InDesign
-- Adobe Photoshop
+- Digital Illustrations - Adobe Photoshop, Adobe Illustrator, Adobe InDesign
 - Video Editing - Adobe Premier Pro
 - Figma
 ### 📫 How to reach me:
