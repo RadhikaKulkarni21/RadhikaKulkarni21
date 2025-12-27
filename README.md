@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Radhika, software engineer, graphic designer and a gamer. I have 5 years of CS experience. I am currently pursuing my Korean langauge certification exam(TOPIK II level 4).
+Open for job opportunities, discussions and conversations.
 ### 💻 I’m currently working on
 - 3D terrain game called Galaxy Strike
 ### 🌱 Current Interests
@@ -19,3 +20,5 @@ I'm Radhika, software engineer, graphic designer and a gamer. I have 5 years of 
 - Adobe Photoshop
 - Video Editing - Adobe Premier Pro
 - Figma
+### 📫 How to reach me:
+  Feel free to reach out - radhika2103@gmail.com
