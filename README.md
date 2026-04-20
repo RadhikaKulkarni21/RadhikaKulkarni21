@@ -19,4 +19,4 @@ Open for job opportunities, discussions and conversations. Currently based in Ir
 - Video Editing - Adobe Premier Pro
 - Figma
 ### 📫 How to reach me:
-  Feel free to reach out - radhika2103@gmail.com
+  Feel free to reach out through my website
