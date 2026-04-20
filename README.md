@@ -4,12 +4,12 @@ I'm Radhika, software engineer, graphic designer and a competitive MOBA gamer. I
 
 Open for job opportunities, discussions and conversations. Currently based in Ireland, open to relocation with in Ireland with no sponsorship requirement.
 ### 💻 I’m currently working on
-- 3D terrain game called Galaxy Strike using c# and unity engine
+- Designing frontend using QML/QT
 ### 🌱 Current Interests
 - Game/AR/SW development
-- Gaming (League of legends, Valorant, Stardew Valley)
+- Gaming (League of legends, Valorant)
 - Digital Illustrations
-- Language Learning (Korean/Japanese)
+- Language Learning (Korean)
 ### 🖥 Tech stack:
 - C++, C#
 - Unity Engine 2D/3D
