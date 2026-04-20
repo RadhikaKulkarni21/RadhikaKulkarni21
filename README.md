@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Radhika, software engineer, graphic designer and a competitive MOBA gamer. I have 5 years of experience in software, AR and game development. Alongside, I'm pursuing my Korean langauge certification, recently cleared TOPIK II level 4 - high intermediate and now moving to advanced level.
+I'm Radhika, software engineer, graphic designer and a MOBA gamer. I have 5 years of experience in software, AR and game development. Alongside, I'm pursuing my Korean langauge certification, recently cleared TOPIK II level 4 - high intermediate and now moving to advanced level.
 
 Open for job opportunities, discussions and conversations. Currently based in Ireland, open to relocation with in Ireland with no sponsorship requirement.
 ### 💻 I’m currently working on
